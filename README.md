@@ -10,7 +10,7 @@ A modern, premium developer portfolio built with Next.js 14, Tailwind CSS, and F
 - ✅ Fully responsive (mobile-first)
 - ✅ SEO-friendly (Next.js metadata API)
 - ✅ Interactive tabbed Experience section
-- ✅ Testimonial carousel
+- ✅ Testimonial carousel 
 - ✅ Working contact form UI
 - ✅ Skill bar animations
 
