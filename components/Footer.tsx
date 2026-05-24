@@ -22,7 +22,7 @@ export default function Footer() {
               <Code2 size={15} className="text-white" />
             </div>
             <span className="font-display text-base font-bold text-white">
-              alex<span className="text-cyan-400">.</span>dev
+              Sandip<span className="text-cyan-400">.</span>dev
             </span>
           </a>
 
@@ -56,7 +56,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-white/5 text-center text-sm text-slate-600">
-          © {year} Alex Rivera. Built with Next.js & Tailwind CSS.
+          © {year} Sandip Budhathoki. Built with Next.js & Tailwind CSS.
         </div>
       </div>
     </footer>

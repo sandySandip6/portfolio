@@ -39,7 +39,7 @@ export default function Navbar() {
               <Code2 size={17} className="text-white" />
             </div>
             <span className="font-display text-lg font-bold text-white">
-              alex<span className="text-cyan-400">.</span>dev
+              Sandip<span className="text-cyan-400">.</span>dev
             </span>
           </a>
 

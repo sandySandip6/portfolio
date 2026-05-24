@@ -54,8 +54,8 @@ export default function Hero() {
           className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-[1.1] tracking-tight max-w-4xl"
         >
           Hi, I&apos;m{" "}
-          <span className="gradient-text">Alex Rivera</span>
-          <span className="text-slate-500"> —</span>
+          <span className="gradient-text">Sandip Budhathoki</span>
+          <span className="text-slate-500"> —</span> 
           <br />
           I build digital products that{" "}
           <span className="text-slate-400">people love.</span>

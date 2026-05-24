@@ -12,7 +12,7 @@ const socials = [
   { icon: FaGithub, href: "https://github.com", label: "GitHub" },
   { icon: FaLinkedin, href: "https://linkedin.com", label: "LinkedIn" },
   { icon: SiX, href: "https://twitter.com", label: "X" },
-  { icon: Mail, href: "mailto:alex@example.com", label: "Email" },
+  { icon: Mail, href: "mailto:Sandip@example.com", label: "Email" },
 ];
 
 export default function Contact() {
@@ -54,10 +54,10 @@ export default function Contact() {
                 I&apos;m open to freelance projects, full-time roles, and interesting collaborations.
               </p>
               <a
-                href="mailto:alex@example.com"
+                href="mailto:Sandip@example.com"
                 className="text-cyan-400 hover:text-cyan-300 transition-colors text-sm font-medium"
               >
-                alex@example.com
+                Sandip@example.com
               </a>
             </div>
 

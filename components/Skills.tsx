@@ -9,41 +9,41 @@ const categories = [
     title: "Frontend",
     color: "#6ee7f7",
     skills: [
-      { name: "React / Next.js", level: 95 },
-      { name: "TypeScript", level: 92 },
-      { name: "Tailwind CSS", level: 90 },
-      { name: "Framer Motion", level: 85 },
-      { name: "Vue.js", level: 78 },
+      { name: "React / Next.js", level: 40 },
+      { name: "TypeScript", level: 30 },
+      { name: "Tailwind CSS", level: 50 },
+      // { name: "Framer Motion", level: 85 },
+      // { name: "Vue.js", level: 78 },
     ],
   },
   {
     title: "Backend",
     color: "#a78bfa",
     skills: [
-      { name: "Node.js / Express", level: 90 },
-      { name: "PostgreSQL", level: 85 },
-      { name: "GraphQL", level: 82 },
-      { name: "Redis", level: 76 },
-      { name: "Python / FastAPI", level: 72 },
+      // { name: "Node.js / Express", level: 90 },
+      { name: "PostgreSQL", level: 20 },
+      // { name: "GraphQL", level: 82 },
+      { name: "Redis", level: 30 },
+      { name: "Python / Django", level: 50 },
     ],
   },
   {
     title: "DevOps & Tools",
     color: "#f472b6",
     skills: [
-      { name: "Docker / K8s", level: 80 },
-      { name: "AWS / GCP", level: 78 },
-      { name: "CI/CD (GitHub Actions)", level: 85 },
-      { name: "Terraform", level: 65 },
-      { name: "Linux / Bash", level: 82 },
+      { name: "Docker / K8s", level: 20 },
+      // { name: "AWS / GCP", level: 78 },
+      { name: "Cpanel", level: 50 },
+      { name: "CI/CD (GitHub Actions)", level: 30},
+      // { name: "Terraform", level: 65 },
+      { name: "Linux / Bash", level: 30 },
     ],
   },
 ];
 
 const techBadges = [
-  "React", "Next.js", "TypeScript", "Node.js", "PostgreSQL",
-  "GraphQL", "Docker", "AWS", "Tailwind", "Redis",
-  "Prisma", "Stripe", "Figma", "Git", "Jest",
+  "Python", "Django", "React", "Next.js", "TypeScript", "PostgreSQL",
+  "Docker", "Tailwind", "Redis", "Figma", "Git", "Cpanel",
 ];
 
 function SkillBar({

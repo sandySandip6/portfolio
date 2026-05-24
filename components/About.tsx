@@ -56,11 +56,11 @@ export default function About() {
                       <div
                         className="w-24 h-24 sm:w-28 sm:h-28 rounded-full mx-auto mb-4 flex items-center justify-center text-3xl sm:text-4xl font-bold text-white font-display"
                         style={{ background: "linear-gradient(135deg, #06b6d4, #8b5cf6)" }}
-                        aria-label="Alex Rivera initials"
+                        aria-label="Sandip Budhathoki initials"
                       >
                         AR
                       </div>
-                      <p className="text-slate-300 text-sm font-medium">Alex Rivera</p>
+                      <p className="text-slate-300 text-sm font-medium">Sandip Budhathoki</p>
                       <p className="text-cyan-400 text-xs mt-1">Full Stack Developer</p>
                     </div>
                   </div>

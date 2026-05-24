@@ -1,4 +1,4 @@
-# Alex Rivera — Developer Portfolio
+# Sandip Budhathoki — Developer Portfolio
 
 A modern, premium developer portfolio built with Next.js 14, Tailwind CSS, and Framer Motion.
 

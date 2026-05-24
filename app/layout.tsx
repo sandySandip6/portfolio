@@ -15,12 +15,12 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Rivera — Full Stack Developer",
+  title: "Sandip Budhathoki — Full Stack Developer",
   description: "Full Stack Developer specializing in React, Next.js, and Node.js. Building beautiful, performant web experiences.",
   keywords: ["Full Stack Developer", "React", "Next.js", "TypeScript", "Node.js"],
-  authors: [{ name: "Alex Rivera" }],
+  authors: [{ name: "Sandip Budhathoki" }],
   openGraph: {
-    title: "Alex Rivera — Full Stack Developer",
+    title: "Sandip Budhathoki — Full Stack Developer",
     description: "Full Stack Developer specializing in React, Next.js, and Node.js.",
     type: "website",
   },

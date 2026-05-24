@@ -12,7 +12,7 @@ const testimonials = [
     avatar: "SC",
     color: "#6ee7f7",
     quote:
-      "Alex is the kind of engineer who makes the entire team better. Their attention to performance, code quality, and user experience is unmatched. They rebuilt our frontend architecture in a way that made our codebase 10x more maintainable.",
+      "Sandip is the kind of engineer who makes the entire team better. Their attention to performance, code quality, and user experience is unmatched. They rebuilt our frontend architecture in a way that made our codebase 10x more maintainable.",
   },
   {
     name: "Marcus Thompson",
@@ -20,7 +20,7 @@ const testimonials = [
     avatar: "MT",
     color: "#a78bfa",
     quote:
-      "I've worked with many developers over the years, and Alex stands out for their ability to take ownership of complex problems end-to-end. They shipped our entire e-commerce platform ahead of schedule.",
+      "I've worked with many developers over the years, and Sandip stands out for their ability to take ownership of complex problems end-to-end. They shipped our entire e-commerce platform ahead of schedule.",
   },
   {
     name: "Priya Nair",
@@ -28,7 +28,7 @@ const testimonials = [
     avatar: "PN",
     color: "#f472b6",
     quote:
-      "What sets Alex apart is the combination of strong technical skills and a genuine design sensibility. Our clients consistently praised the polish of what we delivered.",
+      "What sets Sandip apart is the combination of strong technical skills and a genuine design sensibility. Our clients consistently praised the polish of what we delivered.",
   },
   {
     name: "James Whitfield",
@@ -36,7 +36,7 @@ const testimonials = [
     avatar: "JW",
     color: "#34d399",
     quote:
-      "Alex joined us as a founding engineer and helped us ship our MVP in record time. They balance speed with quality — moving fast without creating technical debt.",
+      "Sandip joined us as a founding engineer and helped us ship our MVP in record time. They balance speed with quality — moving fast without creating technical debt.",
   },
 ];
 
