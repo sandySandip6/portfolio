@@ -21,21 +21,21 @@ const projects = [
   //   live: "https://example.com",
   // },
   {
-    title: "Orbit — E-commerce Platform",
+    title: "Yulsa Advisor Pvt. Ltd.",
     description:
-      "Full-featured commerce platform with AI-powered product recommendations, headless CMS integration, and sub-100ms TTFB globally.",
-    tags: ["React", "Node.js", "Stripe", "Redis", "AWS"],
+      "Full-featured static and dynamic website for a financial advisory company.",
+    tags: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
     color: "#a78bfa",
     gradient: "from-violet-500/20 to-purple-500/10",
     featured: true,
     github: "https://github.com",
-    live: "https://example.com",
+    live: "https://teamyulsa.com",
   },
   {
-    title: "Aether AI Writer",
+    title: "Bill Splitting System",
     description:
-      "AI-assisted long-form content editor with GPT-4 integration, real-time collaboration, and version history.",
-    tags: ["Vue.js", "FastAPI", "OpenAI", "Redis", "Docker"],
+      "A bill splitting system for a company to split the bill among the members.",
+    tags: ["React", "Django", "Next_js", "PostgreSQL", "Github"],
     color: "#f472b6",
     gradient: "from-pink-500/20 to-rose-500/10",
     featured: true,
@@ -43,10 +43,10 @@ const projects = [
     live: "https://example.com",
   },
   {
-    title: "ChainVault",
+    title: "The Karnali Updates - News Portal ",
     description:
-      "Web3 portfolio tracker with multi-chain support, DeFi protocol integrations, and real-time price alerts.",
-    tags: ["React", "ethers.js", "The Graph", "Supabase"],
+      "News portal web application with fully dynamic system.",
+    tags: ["React", "Next_js", "Django", "Sqlite"],
     color: "#34d399",
     gradient: "from-emerald-500/20 to-teal-500/10",
     featured: false,

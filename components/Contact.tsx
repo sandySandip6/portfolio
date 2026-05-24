@@ -9,10 +9,10 @@ import SectionHeader from "@/components/ui/SectionHeader";
 import Button from "@/components/ui/Button";
 
 const socials = [
-  { icon: FaGithub, href: "https://github.com", label: "GitHub" },
-  { icon: FaLinkedin, href: "https://linkedin.com", label: "LinkedIn" },
+  { icon: FaGithub, href: "https://github.com/sandySandip6", label: "GitHub" },
+  { icon: FaLinkedin, href: "https://www.linkedin.com/in/sandip-budhathoki-465662277/", label: "LinkedIn" },
   { icon: SiX, href: "https://twitter.com", label: "X" },
-  { icon: Mail, href: "mailto:Sandip@example.com", label: "Email" },
+  { icon: Mail, href: "mailto:codingsandy@gmail.com", label: "Email" },
 ];
 
 export default function Contact() {
@@ -54,10 +54,10 @@ export default function Contact() {
                 I&apos;m open to freelance projects, full-time roles, and interesting collaborations.
               </p>
               <a
-                href="mailto:Sandip@example.com"
+                href="mailto:codingsandy6@gmail.com"
                 className="text-cyan-400 hover:text-cyan-300 transition-colors text-sm font-medium"
               >
-                Sandip@example.com
+                codingsandy6@gmail.com
               </a>
             </div>
 
@@ -105,7 +105,7 @@ export default function Contact() {
                     <label htmlFor="email" className="block text-sm text-slate-400 mb-2">
                       Email
                     </label>
-                    <input id="email" name="email" type="email" required className="input-field" placeholder="you@example.com" />
+                    <input id="email" name="email" type="email" required className="input-field" placeholder="Your email" />
                   </div>
                 </div>
                 <div>

@@ -1,9 +1,9 @@
 "use client";
 import { motion } from "framer-motion";
 import { ArrowDown, Sparkles } from "lucide-react";
-import Button from "@/components/ui/Button";
+import Button from "@/components/ui/Button"; 
 
-const techStack = ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"];
+const techStack = ["React", "Next.js", "TypeScript", "Django", "PostgreSQL"];
 
 export default function Hero() {
   return (
@@ -55,8 +55,8 @@ export default function Hero() {
         >
           Hi, I&apos;m{" "}
           <span className="gradient-text">Sandip Budhathoki</span>
-          <span className="text-slate-500"> —</span> 
-          <br />
+          <span className="text-slate-500"> .</span> 
+          <br /><br />
           I build digital products that{" "}
           <span className="text-slate-400">people love.</span>
         </motion.h1>
@@ -67,7 +67,7 @@ export default function Hero() {
           transition={{ duration: 0.7, delay: 0.2 }}
           className="mt-6 text-base sm:text-lg text-slate-400 max-w-xl leading-relaxed"
         >
-          Full-stack developer specializing in React, Next.js, and Node.js. I turn complex ideas into
+          Full-stack developer specializing in React, Next.js, and Django. I turn complex ideas into
           fast, beautiful, and scalable web experiences.
         </motion.p>
 

@@ -29,9 +29,8 @@ export default function Navbar() {
         initial={{ y: -80, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-          scrolled ? "glass py-3 shadow-lg shadow-black/20" : "py-4 md:py-5 bg-transparent"
-        }`}
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? "glass py-3 shadow-lg shadow-black/20" : "py-4 md:py-5 bg-transparent"
+          }`}
       >
         <div className="container-main flex items-center justify-between gap-4">
           <a href="#" className="flex items-center gap-2.5 shrink-0">

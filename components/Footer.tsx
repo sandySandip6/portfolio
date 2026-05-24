@@ -5,9 +5,10 @@ import { SiX } from "react-icons/si";
 const links = ["About", "Skills", "Projects", "Experience", "Testimonials", "Contact"];
 
 const socials = [
-  { icon: FaGithub, href: "https://github.com", label: "GitHub" },
-  { icon: FaLinkedin, href: "https://linkedin.com", label: "LinkedIn" },
+  { icon: FaGithub, href: "https://github.com/sandySandip6", label: "GitHub" },
+  { icon: FaLinkedin, href: "https://www.linkedin.com/in/sandip-budhathoki-465662277/", label: "LinkedIn" },
   { icon: SiX, href: "https://twitter.com", label: "X" },
+  // { icon: Mail, href: "mailto:codingsandy@gmail.com", label: "Email" },
 ];
 
 export default function Footer() {

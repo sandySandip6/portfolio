@@ -38,36 +38,34 @@ const experiences = [
     ],
   },
   {
-    role: "Frontend Developer",
-    company: "Stackr Inc.",
-    period: "2019 – 2020",
-    location: "Austin, TX",
-    type: "Contract",
+    role: "Coding Instructor",
+    company: "Mero Coding Class.",
+    period: "October 2025 - April 2026",
+    location: "Sankhamul Kathmandu.",
+    type: "Full-time",
     color: "#f472b6",
     description:
-      "Joined as a founding engineer to build the consumer-facing product. Wore many hats — frontend, product, and some backend work in a fast-paced startup environment.",
+      "Joined as a full time coding instructor. Utilized my knowledge to educate the students and make them understand about the programming and coding.",
     highlights: [
-      "Built MVP in 6 weeks that secured Series A funding",
-      "Created data visualization system for complex financial data",
-      "Implemented OAuth and multi-tenant authentication",
-      "Shipped iOS PWA with native-feeling performance",
+      "Works as a tutor, Taught multiple student and helps them to give hands on experience ",
+      "Built many small projects in python and robotics.",
     ],
   },
-  {
-    role: "Junior Developer",
-    company: "TechCraft Studio",
-    period: "2018 – 2019",
-    location: "Remote",
-    type: "Full-time",
-    color: "#34d399",
-    description:
-      "First professional role — built marketing sites and internal tools. Learned fundamentals of software engineering, version control, and team collaboration.",
-    highlights: [
-      "Developed 20+ marketing websites using React and Gatsby",
-      "Built internal admin dashboard used by 50+ employees",
-      "Learned Agile/Scrum practices in a fast-moving team",
-    ],
-  },
+  // {
+  //   role: "Junior Developer",
+  //   company: "TechCraft Studio",
+  //   period: "2018 – 2019",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   color: "#34d399",
+  //   description:
+  //     "First professional role — built marketing sites and internal tools. Learned fundamentals of software engineering, version control, and team collaboration.",
+  //   highlights: [
+  //     "Developed 20+ marketing websites using React and Gatsby",
+  //     "Built internal admin dashboard used by 50+ employees",
+  //     "Learned Agile/Scrum practices in a fast-moving team",
+  //   ],
+  // },
 ];
 
 export default function Experience() {

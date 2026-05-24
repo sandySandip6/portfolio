@@ -7,10 +7,10 @@ import SectionHeader from "@/components/ui/SectionHeader";
 import Button from "@/components/ui/Button";
 
 const stats = [
-  { icon: Zap, value: "5+", label: "Years Experience" },
-  { icon: Globe, value: "40+", label: "Projects Shipped" },
+  { icon: Zap, value: "0.5+", label: "Years Experience" },
+  { icon: Globe, value: "3+", label: "Projects Shipped" },
   { icon: Coffee, value: "∞", label: "Coffees Consumed" },
-  { icon: Award, value: "12", label: "Happy Clients" },
+  { icon: Award, value: "3", label: "Happy Clients" },
 ];
 
 export default function About() {
@@ -83,9 +83,9 @@ export default function About() {
           >
             <div className="space-y-4 text-slate-400 leading-relaxed mb-8">
               <p>
-                I&apos;m a full-stack developer with 5+ years of experience building everything from
-                scrappy MVPs to enterprise-scale platforms. Based in San Francisco, I specialize
-                in the modern JavaScript ecosystem.
+                I&apos;m a full-stack developer with 6 months of experience building 
+                web applications. Based in Kathmandu, I specialize
+                in the modern web development ecosystem.
               </p>
               <p>
                 My approach combines strong engineering fundamentals with a genuine love for design —
