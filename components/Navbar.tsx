@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Menu, X, Code2 } from "lucide-react";
+import { Menu, X, TerminalIcon } from "lucide-react";
 import Button from "@/components/ui/Button";
 
 const links = ["About", "Skills", "Projects", "Experience", "Testimonials", "Contact"];
@@ -35,7 +35,7 @@ export default function Navbar() {
         <div className="container-main flex items-center justify-between gap-4">
           <a href="#" className="flex items-center gap-2.5 shrink-0">
             <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-cyan-400 to-violet-500 flex items-center justify-center">
-              <Code2 size={17} className="text-white" />
+              <TerminalIcon size={17} className="text-white" />
             </div>
             <span className="font-display text-lg font-bold text-white">
               Sandip<span className="text-cyan-400">.</span>dev
@@ -64,7 +64,7 @@ export default function Navbar() {
             type="button"
             onClick={() => setOpen(!open)}
             aria-label={open ? "Close menu" : "Open menu"}
-            className="md:hidden icon-btn !w-10 !h-10 rounded-xl"
+            className="md:!hidden icon-btn !w-10 !h-10 rounded-xl"
           >
             {open ? <X size={18} /> : <Menu size={18} />}
           </button>

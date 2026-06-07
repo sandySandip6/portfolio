@@ -58,7 +58,7 @@ export default function About() {
                         style={{ background: "linear-gradient(135deg, #06b6d4, #8b5cf6)" }}
                         aria-label="Sandip Budhathoki initials"
                       >
-                        AR
+                        SB
                       </div>
                       <p className="text-slate-300 text-sm font-medium">Sandip Budhathoki</p>
                       <p className="text-cyan-400 text-xs mt-1">Full Stack Developer</p>
@@ -97,7 +97,12 @@ export default function About() {
               </p>
             </div>
 
-            <Button href="/resume.pdf" variant="secondary" className="gap-2">
+            <Button
+              href="/assets/resume.pdf"
+              download="Sandip-Budhathoki-Resume.pdf"
+              variant="secondary"
+              className="gap-2"
+            >
               Download Resume
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
